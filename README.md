@@ -1,7 +1,6 @@
 ### Hi, I am Sisir 👋
 
-![banner](./profile-banner.jpg)
-
+<img src="https://raw.githubusercontent.com/tuxsisir/tuxsisir/master/profile-banner.jpg" alt="full-stack-chopstick-docker-agent">
 ---
 
 I work at [@fusemachines](https://fusefusemachines.com) as a Software Engineer building backend
