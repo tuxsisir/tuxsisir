@@ -1,6 +1,6 @@
-### Hi, I am Sisir 👋
+### Hi, I am Sisir 👋 🖥 🧑🏻‍💻
 
-<img src="https://raw.githubusercontent.com/tuxsisir/tuxsisir/master/profile-banner.jpg" alt="full-stack-chopstick-docker-agent">
+<img src="https://raw.githubusercontent.com/tuxsisir/tuxsisir/master/profile-banner.png" alt="full-stack-chopstick-docker-agent">
 
 ---
 
