@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I am Sisir 👋
 
-<!--
-**tuxsisir/tuxsisir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](./profile-banner.jpg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at [@fusemachines](https://fusefusemachines.com) as a Software Engineer building backend
+solutions in a Cloud Native Environment. These days, I am leveraging -- Python, Project Jupyter, Jupyterhub, Kubernetes, Docker, Skaffold, Minikube to solve daily problems. To know a little bit more about me -- check out: [tuxsisir.github.io](https://tuxsisir.github.io)
+
+Find me on:
+
+- Email -- [samratsisir294@gmail.com](mailto:samratsisir294@gmail.com) 📭
+- Jibber jabber -- [tuxsisir.github.io](https://tuxsisir.github.io) 👨‍💻
+- Linkedin -- <a href="https://www.linkedin.com/in/sisir-ghimire-chettri">LinkedIn</a> 💼
+
+> Controlling complexity is the essence of computer programming. - Brian Kernighan
+
+#### Credits
+---
+[Background vector created by - freepik](https://www.freepik.com/free-photos-vectors/background)
