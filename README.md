@@ -4,7 +4,7 @@
 
 ---
 
-I work at [@fusemachines](https://fusefusemachines.com) as a Software Engineer building backend
+I work at [@fusemachines](https://fusemachines.com) as a Software Engineer building backend
 solutions in a Cloud Native Environment. These days, I am leveraging -- Python, Project Jupyter, Jupyterhub, Kubernetes, Docker, Skaffold, Minikube to solve daily problems. To know a little bit more about me -- check out: [tuxsisir.github.io](https://tuxsisir.github.io)
 
 Find me on:
