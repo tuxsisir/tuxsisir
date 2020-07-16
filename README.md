@@ -18,3 +18,8 @@ Find me on:
 #### Credits
 ---
 [Background vector created by - freepik](https://www.freepik.com/free-photos-vectors/background)
+
+
+[![HitCount](http://hits.dwyl.com/tuxsisir/tuxsisir.svg)](http://hits.dwyl.com/tuxsisir/tuxsisir)
+
+Get your project hits from here 👉 [HITS!](https://hits.dwyl.com/)
