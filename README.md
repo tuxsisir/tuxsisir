@@ -20,6 +20,7 @@ Find me on:
 [Background vector created by - freepik](https://www.freepik.com/free-photos-vectors/background)
 
 
-[![HitCount](http://hits.dwyl.com/tuxsisir/tuxsisir.svg)](http://hits.dwyl.com/tuxsisir/tuxsisir)
+![](https://hits.dwyl.com/tuxsisir/tuxsisir.svg)
+
 
 Get your project hits from here 👉 [HITS!](https://hits.dwyl.com/)
