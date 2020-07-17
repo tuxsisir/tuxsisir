@@ -6,8 +6,7 @@
 ---
 
 [![samratsisir294@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samratsisir294@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@samratsisir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samratsisir)](https://twitter.com/samratsisir)
-[![Linkedin: SGC](https://img.shields.io/badge/-Sisir Ghimire Chettri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisir-ghimire-chettri)](https://www.linkedin.com/in/sisir-ghimire-chettri) [![GitHub tuxsisir](https://img.shields.io/github/followers/tuxsisir?label=follow&style=social)](https://github.com/tuxsisir)
+[![Twitter Badge](https://img.shields.io/badge/-@samratsisir-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/samratsisir)](https://twitter.com/samratsisir) [![Linkedin: SGC](https://img.shields.io/badge/-SGC-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sisir-ghimire-chettri)](https://www.linkedin.com/in/sisir-ghimire-chettri) [![GitHub tuxsisir](https://img.shields.io/github/followers/tuxsisir?label=follow&style=social)](https://github.com/tuxsisir)
 [![](https://img.shields.io/badge/more-@tuxsisir.github.io-ff69b4)](https://tuxsisir.github.io)
 
 
