@@ -10,8 +10,8 @@
 [![](https://img.shields.io/badge/more-@tuxsisir.github.io-ff69b4)](https://tuxsisir.github.io)
 
 
-I work at 🏢 [@fusemachines](https://fusemachines.com) as a Software Engineer building backend
-solutions in a Cloud Native Environment. These days, I am leveraging -- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+I worked at 🏢 [@fusemachines](https://fusemachines.com) as a Software Engineer building backend
+solutions in a Cloud Native Environment. These days, I am **NOT** leveraging -- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>to solve daily problems. To know a little bit more about me -- check out: [tuxsisir.github.io](https://tuxsisir.github.io)
 
