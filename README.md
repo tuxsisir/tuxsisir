@@ -1,4 +1,4 @@
-### Hi, I am Sisir 👋 🖥 🧑🏻‍💻
+### Hi, Welcome to my Github profile! 👋 🖥 🧑🏻‍💻
 
 
 [![samratsisir294@gmail.com](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samratsisir294@gmail.com)
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/more-@tuxsisir.github.io-ff69b4)](https://tuxsisir.github.io)
 
 
-Thanks for coming here.
+Thanks for dropping in!
 I worked at 🏢 [@fusemachines](https://fusemachines.com) as a Software Engineer building backend
 solutions in a Cloud Native Environment. Recently, I am getting myself into Data Analytics.
 
