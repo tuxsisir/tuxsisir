@@ -7,8 +7,6 @@
 
 
 Thanks for dropping in!
-I worked at 🏢 [@fusemachines](https://fusemachines.com) as a Software Engineer building backend
-solutions in a Cloud Native Environment. Recently, I am getting myself into Data Analytics.
 
 <br>
 <div align="center" style="color: #6a737d;">
