@@ -8,8 +8,6 @@
 
 Thanks for dropping in!
 
-![](https://komarev.com/ghpvc/?username=tuxsisir&label=Views&style=flat-square)
-
 <br>
 <div align="center" style="color: #6a737d;">
 <em>"Controlling complexity is the essence of computer programming." - Brian Kernighan</em>
